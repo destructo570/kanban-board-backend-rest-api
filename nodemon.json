@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "vishal",
+    "MONGO_PASSWORD": "X9K3EXRafmFBNKFY",
+    "MONGO_DEFAULT_DB": "kanban"
+  }
+}
