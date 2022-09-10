@@ -1,5 +1,6 @@
 const Card = require("../models/card");
 const List = require("../models/list");
+const { throwError } = require("../utils/helpers");
 
 exports.createNewList = async (req, res, next) => {
   const boardId = req.body.boardId;
